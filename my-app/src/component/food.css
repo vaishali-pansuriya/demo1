@@ -1,0 +1,37 @@
+.about_p
+{
+    color: green;
+    margin-top: 40px;
+    font-size: 20px;
+}
+.about_h1
+{
+    color: #22577A;
+
+}
+.lorem_p
+{
+    color:#757575
+}
+.image_about
+{
+    padding-left: 60px;
+    padding-top: 50px;
+}
+.spacerTop
+{
+    margin-top: 80px;
+}
+.color
+{
+
+    background-color: #E7EDF4;
+    height: 1090px;
+    width: 1403px;
+}
+.color1
+{
+    background-color:#DFF2D4;
+    height: 700px;
+    width: 1403px;
+}

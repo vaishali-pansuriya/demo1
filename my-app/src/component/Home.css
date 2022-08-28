@@ -1,0 +1,83 @@
+/* .row{
+    margin: 0;
+} */
+/* .sub_header
+{
+    color: #8D92A4;
+    background-color: #FFFFFF;
+    padding: 5px 5px;
+    font-size: 12px;
+    margin-top: 10px;
+
+}
+.icon
+{
+    color: #FF6620;
+    font-size: 16px;
+    margin-right: 12px ;
+} */
+.main_header
+{
+    background-color: #82AE46;
+    color: #fff;
+    font-size: 14px;
+    font-family: poppins light;
+}
+.icon
+{
+    margin: 3px 7px;
+}
+.logo
+{
+    color: green !important;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 40px 90px;
+
+}
+/* section icon */
+.icon_card
+{
+    color: black;
+}
+.about_p
+{
+    color: green;
+    margin-top: 40px;
+    font-size: 20px;
+}
+.about_h1
+{
+    color: #22577A;
+
+}
+.lorem_p
+{
+    color:#757575
+}
+.image_about
+{
+    padding-left: 60px;
+    padding-top: 50px;
+}
+.spacerTop
+{
+    margin-top: 80px;
+}
+.color
+{
+
+    background-color: #E7EDF4;
+    height: 1090px;
+  
+}
+.color1
+{
+    background-color:#DFF2D4;
+    height: 700px;
+   
+}
+.icon_email
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
